@@ -55,14 +55,25 @@ Executive Bureau 2019
 ======================
 
 **Hichem Razgallah** - President
+
 **Mohamed Amine ben Krifa** - Vice President
+
 **Mohamed Labidi** - General Secretary
+
 **Fatma Beltaief** - Treasurer
+
 **Firas Gacha** - Human Resource
+
 **Yassmine Hamdi** - Communication Manager
+
 **Jihed Melki** - Media Off Manager
+
 **Melek Zamouri** - Media On Manager
+
 **Hamdi Rhibi** - Head of HLP Departement
+
 **Yosri Doggaz** - Vice Head of HLP Departement
+
 **Yassine ben abdallah** - Head of Robotics Department
+
 **Walid Saadallah** - Head of Problem Solving Departement
