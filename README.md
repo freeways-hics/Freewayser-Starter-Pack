@@ -49,3 +49,20 @@ Robotics deal with the design, construction, operation, and use of robots, as we
 Nowadays, robotics is a rapidly growing field, as technological advances continue; researching, designing, and building new robots serve various
 practical purposes. That’s why at Freeways we are pursuing this technology.
 This departments’ activities involve the planning of regular workshops that introduce our students to robotics and help them to improve and put to practice their skills in this section.
+
+
+Executive Bureau 2019
+======================
+
+**Hichem Razgallah** - President
+**Mohamed Amine ben Krifa** - Vice President
+**Mohamed Labidi** - General Secretary
+**Fatma Beltaief** - Treasurer
+**Firas Gacha** - Human Resource
+**Yassmine Hamdi** - Communication Manager
+**Jihed Melki** - Media Off Manager
+**Melek Zamouri** - Media On Manager
+**Hamdi Rhibi** - Head of HLP Departement
+**Yosri Doggaz** - Vice Head of HLP Departement
+**Yassine ben abdallah** - Head of Robotics Department
+**Walid Saadallah** - Head of Problem Solving Departement
