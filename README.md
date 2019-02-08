@@ -28,3 +28,24 @@ The main focuses of our club as of now:
 * Sensitize students about the importance of free software.
 * Acquire a very hard training to acquire and develop new skills.
 * Reunite people who have the same interest in working in groups and sharing.
+
+Our Activities
+==============
+
+At Freeways, we have 3 departments, each of which has a skilled manager, a specific schedule and goals to reach.
+
+## High Level Programming Department
+
+In this department, we mainly focus on web development, mobile development (i.e.: Android) and gaming. We provide to students a very high quality training to improve themselves as well as help beginners in this field to start progressively understanding and learning how to program.
+
+## Problem Solving
+Problem solving is the core of computer science. Programmers must first understand how a human solves a problem so they can be able to translate it to a code that is understandable by a machine.
+To do that we work with our most competent students, who are not only able to brainstorm solutions to different problems, but are also very hard workers and solve at least few of an array of problems every week.
+At freeways we provide training sessions and mini-competitions for competitive programming to prepare our students for the CPC (Computer Programming Competition).
+
+## Robotic Department
+
+Robotics deal with the design, construction, operation, and use of robots, as well as specialized computer systems to control the robots.
+Nowadays, robotics is a rapidly growing field, as technological advances continue; researching, designing, and building new robots serve various
+practical purposes. That’s why at Freeways we are pursuing this technology.
+This departments’ activities involve the planning of regular workshops that introduce our students to robotics and help them to improve and put to practice their skills in this section.
