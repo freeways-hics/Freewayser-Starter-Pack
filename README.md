@@ -18,6 +18,13 @@ We sometimes call it “libre software,” borrowing the French term to show we 
  ============================
  
 Being open source means anyone can independently review the code. On the contrary, a closed source software cannot be reviewed by anyone, meaning that there is no chance to even verify its security or to improve it.
-“I think it’s essential for a program of this nature to be open source”
--        Satoshi  Nakamoto ….
+“I think it’s essential for a program of this nature to be open source” - Satoshi  Nakamoto ….
 
+Our Objectives
+===============
+
+The main focuses of our club as of now:
+* Diffuse the culture of free software and the concept of sharing the knowledge.
+* Sensitize students about the importance of free software.
+* Acquire a very hard training to acquire and develop new skills.
+* Reunite people who have the same interest in working in groups and sharing.
