@@ -66,9 +66,17 @@ Executive Bureau 2019
 
 **Yassmine Hamdi** - Communication Manager
 
+**Farah Ben Nejma** - Vice Communication Manager
+
 **Jihed Melki** - Media Off Manager
 
 **Melek Zamouri** - Media On Manager
+
+**Nour Essid** - Logistics Manager
+
+**Nader Chrigui** - Sponsoring Manager
+
+**Samar Neji** - Events Manager
 
 **Hamdi Rhibi** - Head of HLP Departement
 
